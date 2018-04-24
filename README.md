@@ -1,7 +1,7 @@
 Oracle Standard Edition 12c Release 1
 ============================
 
-[![](https://badge.imagelayers.io/sath89/oracle-12c:latest.svg)](https://imagelayers.io/?images=sath89/oracle-12c:latest 'Get your own badge on imagelayers.io')
+[![Build Status](https://travis-ci.org/spekulant/docker-oracle-12c.svg?branch=master)](https://travis-ci.org/spekulant/docker-oracle-12c)
 
 Oracle Standard Edition 12c Release 1 on Ubuntu
 This **Dockerfile** is a [trusted build](https://registry.hub.docker.com/u/sath89/oracle-12c/) of [Docker Registry](https://registry.hub.docker.com/).
